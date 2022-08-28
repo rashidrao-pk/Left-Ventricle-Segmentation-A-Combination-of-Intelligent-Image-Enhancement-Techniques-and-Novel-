@@ -15,8 +15,9 @@ The Proposed Appraoch is based on :
 ![image](https://user-images.githubusercontent.com/25412736/187078690-e0cf78ca-9087-47b2-a50f-5f4ebc9f18e5.png)
 ![image](https://user-images.githubusercontent.com/25412736/187078695-7a330e51-984c-4627-b0e0-e2c5f2fffc1f.png)
 
-| --- | --- | --- | --- | --- |
+
 | Type of Image	| Feature	| Image 1 |	Image 2 |	Image 3 |
+| --- | --- | --- | --- | --- |
 |Low Contrast Image	| BinCounts	| 95	| 166 |	148 |
 | BinEdges |	96	| 167 |	149 |
 | BinLimits |	20 |	34 |	46 |
@@ -29,8 +30,10 @@ The Proposed Appraoch is based on :
 |	BinWidth |	5 |	3 |	5 |
 
 Distribution of Images into Low Contrast and Normal Image
-| --- | --- | --- |
+
 | Sr. No.|	Type |	Images |
+| --- | --- | --- |
 |        |       | Total	| Low Contrast	| Normal |
 |: 1	  :|  Epicardium – Inner	| 7365 |	2495  |	4870  |
 |: 2    :|	Endocardium - Outer	| 7365 |	2247  |	5118  |
+
