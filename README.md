@@ -32,8 +32,8 @@ The Proposed Appraoch is based on :
 Distribution of Images into Low Contrast and Normal Image
 
 | Sr. No.|	Type |	Images |
-| --- | --- | --- |
 |        |       | Total	| Low Contrast	| Normal |
+| --- | --- | --- |
 |: 1	  :|  Epicardium – Inner	| 7365 |	2495  |	4870  |
 |: 2    :|	Endocardium - Outer	| 7365 |	2247  |	5118  |
 
