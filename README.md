@@ -19,15 +19,15 @@ The Proposed Appraoch is based on :
 | Type of Image	      | Feature	    | Image 1 |	Image 2 |	Image 3 |
 | -----------         | ------      | ---     | ---     | ---     |
 | Low Contrast Image	| BinCounts	  | 95	    | 166     |	148     |
-                      | BinEdges    |	96	    | 167     |	149     |
-                      | BinLimits   |	20      |	34      |	46      |
-                      | High Limit  |	210	    | 200	    |	194	    |
-                      | BinWidth    |	2       |	1	      |	1	      |
+| Low Contrast Image  | BinEdges    |	96	    | 167     |	149     |
+| Low Contrast Image  | BinLimits   |	20      |	34      |	46      |
+| Low Contrast Image  | High Limit  |	210	    | 200	    |	194	    |
+| Low Contrast Image  | BinWidth    |	2       |	1	      |	1	      |
 | Normal Image        |BinCounts	  | 51      |	64      |	51      |
-                      | BinEdges    |	52      |	65      |	52      |
-                      | BinLimits   |	0       |	63      |	0       |
-                      | High Limit  |	255     |	255     |	255     |
-                      |	BinWidth    |	5       |	3       |	5       |
+| Normal Image        | BinEdges    |	52      |	65      |	52      |
+| Normal Image        | BinLimits   |	0       |	63      |	0       |
+| Normal Image        | High Limit  |	255     |	255     |	255     |
+| Normal Image        |	BinWidth    |	5       |	3       |	5       |
 <br>
 Distribution of Images into Low Contrast and Normal Image
 <br>
